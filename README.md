@@ -28,6 +28,8 @@
 
 #profile-prefer-ipv4: true
 
+auto-continue: true;
+
 vless://8ae7b082-8ada-4352-a66e-c0ab7e48d3ed@109.68.212.158:443?security=reality&encryption=none&pbk=3JLrOA21KOD2Pd6B6YifuJaZkzH8qL9okJh8cvX7R0M&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=8ac77e6b777376c8#🇷🇺 VPN 🎗️ 1
 vless://8ae7b082-8ada-4352-a66e-c0ab7e48d3ed@194.87.215.29:443?security=reality&encryption=none&pbk=3JLrOA21KOD2Pd6B6YifuJaZkzH8qL9okJh8cvX7R0M&headerType=none&fp=random&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=8ac77e6b777376c8#🇷🇺 VPN 🎗️ 2
 vless://700699d6-fad1-11f0-b3e3-0242ac110002@fi1.cyphervpn.pro:443?security=reality&encryption=none&pbk=mPKlA8bV_gRiYnA4AKJLv2bnLiQDYouN_VVeMbqvywU&headerType=none&fp=firefox&spx=%2F&allowinsecure=0&type=tcp&sni=fi1.cyphervpn.pro&sid=5bfa0c#🇫🇮 VPN 🎗️ 3
