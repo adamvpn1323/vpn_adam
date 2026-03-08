@@ -8,7 +8,7 @@
 
 #profile-web-page-url: https://wa.me/79659571323
 
-#subscription-userinfo: upload=0; download=0; total=9223372036854775807; expire=1816642800
+#subscription-userinfo: upload=0; download=0; total=0; expire=1816642800
 
 #profile-notice: ━━━━━━━━━━━━━━━\n   VPN PREMIUM 🧢 \n━━━━━━━━━━━━━━━\n🛡 Статус: Активен\n🚀 Трафик: Безлимитный\n⚡ Скорость: Максимальная\n━━━━━━━━━━━━━━━
 
